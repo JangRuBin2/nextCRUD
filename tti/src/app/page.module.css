@@ -1,4 +1,11 @@
 .board_table {
+  width: 400px;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
 }
+
+.board_contents {
+  height: 400px;
+}
+
